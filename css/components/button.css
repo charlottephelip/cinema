@@ -1,0 +1,19 @@
+.btn-green {
+background-color: #F46036;
+padding: 15px 20px;
+border-radius: 4px;
+color: white;
+font-weight: lighter;
+font-family: Raleway, sans-serif;
+}
+
+button:hover {
+  background-color: #372248;
+  color:  white;
+}
+
+.btn-green:hover {
+  background-color: #372248;
+  color:  white;
+  font-weight: normal;
+}
